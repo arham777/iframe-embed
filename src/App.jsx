@@ -6,7 +6,7 @@ function App() {
   const sitesToEmbed = [
     {
       src: 'https://assessments.cybergen.com/',
-      title: 'Assessments Cybergen',
+      title: 'AI-Readiness Assessment',
       height: '800px'
     },
     // {
