@@ -9,11 +9,11 @@ function App() {
       title: 'Assessments Cybergen',
       height: '800px'
     },
-    {
-      src: 'https://capturebyarham.netlify.app',
-      title: 'Capturebyarham',
-      height: '600px'
-    },
+    // {
+    //   src: 'https://capturebyarham.netlify.app',
+    //   title: 'Capturebyarham',
+    //   height: '600px'
+    // },
     {
       src: 'https://cybergen-report.vercel.app/',
       title: 'Cybergen Branding Report',
